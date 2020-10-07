@@ -4,9 +4,9 @@
 
 A fly's life is not easy. Predators are always on the hunt. Can you help _Mosca_ the fly get home safely?
 
-> In the **worlds** directory, there are two _.txt_ files provided
-> Each file represents a different world 
-> You can create your own world of any size and with any number of predators 
+> In the **worlds** directory, there are two _.txt_ files provided.
+> Each file represents a different world. 
+> You can create your own world of any size and with any number of predators. 
 >
 > The world layout is as follows: 
 >
