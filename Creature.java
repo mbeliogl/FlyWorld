@@ -1,4 +1,4 @@
-// homework #2 part 2
+
 // Creature.java 
 package com.maxim;
 import java.awt.image.BufferedImage;
